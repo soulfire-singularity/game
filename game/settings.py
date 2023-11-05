@@ -1,0 +1,2 @@
+RES = WIDTH, HEIGHT = 500, 500
+FPS = 60
